@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingAndAttributeRouting", "RoutingAndAttributeRouting\RoutingAndAttributeRouting.csproj", "{D70B8481-C470-4CA0-9FBD-FEB70CA78010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70B8481-C470-4CA0-9FBD-FEB70CA78010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70B8481-C470-4CA0-9FBD-FEB70CA78010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70B8481-C470-4CA0-9FBD-FEB70CA78010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70B8481-C470-4CA0-9FBD-FEB70CA78010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C895497C-E171-4ACA-A109-E3A9BD20B5B5}
+	EndGlobalSection
+EndGlobal
